@@ -1,2 +1,3 @@
-# hello-world
-"Hello, world!" repository
+# **Hello, world!** project.
+
+Repository "hello, world!"
